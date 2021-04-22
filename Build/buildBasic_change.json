@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ProjectWebAR",
+"productVersion": "0.1",
+"dataUrl": "buildBasic_change.data.unityweb",
+"wasmCodeUrl": "buildBasic_change.wasm.code.unityweb",
+"wasmFrameworkUrl": "buildBasic_change.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
